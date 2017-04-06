@@ -1,2 +1,6 @@
 # ChordImp
 Implementação Chord 
+Para utilizar a implementação deve ser em linux !
+as funções do python de tela, nao funcionam para windows.
+A versão disponibilizada, adiciona nodes no anel, consegue se remover do anel, e realizar a procura.
+Precisamos ainda implementar a finger table, e a pesquisa na finger table
